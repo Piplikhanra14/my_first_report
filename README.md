@@ -1,4 +1,4 @@
 # my_first_report
 This is my first GIT repository.
 <br>
-Author - Pipli Khanra
+Author - Pipli (Code)
