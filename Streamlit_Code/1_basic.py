@@ -9,4 +9,4 @@ if name:
 
 coffee=st.selectbox("What is your favorite coffee?",["--Select--","Cappuccino","Espresso","Latte","Mocha"]) #for tick in checkbox 
 if coffee != "--Select--":
-    st.write(f"You selected: {coffee} ☕") #after select on checkbox this will apear
+    st.write(f"You selected: {coffee} ☕") #after select on checkbox this will apears
